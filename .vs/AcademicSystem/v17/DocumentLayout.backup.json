@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|c:\\users\\it\\desktop\\new folder (3)\\academicsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DCC3732A-9BB3-4817-8AD8-2A3432843E20}|AcademicSystem.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +58,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.cs [Design]",
+              "RelativeToolTip": "AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:10:14.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:07:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\StudentForm.cs",
+              "RelativeDocumentMoniker": "StudentForm.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\StudentForm.cs [Design]",
+              "RelativeToolTip": "StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:07:19.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\StudentForm.cs",
+              "RelativeDocumentMoniker": "StudentForm.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\StudentForm.cs",
+              "RelativeToolTip": "StudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:05:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.Designer.cs",
+              "RelativeToolTip": "AdminForm.Designer.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAiwIUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:59:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherForm.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "TeacherForm.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\TeacherForm.cs",
+              "RelativeToolTip": "TeacherForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:01:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\TeacherForm.Designer.cs",
+              "RelativeDocumentMoniker": "TeacherForm.Designer.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\TeacherForm.Designer.cs",
+              "RelativeToolTip": "TeacherForm.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADgv08AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:59:04.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\StudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\StudentForm.Designer.cs",
+              "RelativeToolTip": "StudentForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:58:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwDYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAADgvzsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T03:27:05.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "TeacherForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "TeacherForm.cs",
+              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\TeacherForm.cs [Design]",
+              "RelativeToolTip": "TeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:59:01.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -55,19 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.cs",
-              "RelativeDocumentMoniker": "AdminForm.cs",
-              "ToolTip": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\AdminForm.cs [Design]",
-              "RelativeToolTip": "AdminForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T01:34:22.801Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\IT\\Desktop\\New folder (3)\\AcademicSystem\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",

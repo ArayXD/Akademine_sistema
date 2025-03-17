@@ -7,7 +7,7 @@ namespace AcademicSystem
 {
     public partial class AdminForm : Form
     {
-        string connectionString = "server=localhost;database=academic_system;user=root;password=yourpassword;";
+        string connectionString = "server=localhost;database=academic_system;user=root;";
 
         public AdminForm()
         {
@@ -17,7 +17,7 @@ namespace AcademicSystem
             LoadGroups();
         }
 
-        
+
         private void LoadUsers()
         {
             using (MySqlConnection conn = new MySqlConnection(connectionString))
@@ -31,7 +31,7 @@ namespace AcademicSystem
             }
         }
 
-       
+
         private void LoadSubjects()
         {
             using (MySqlConnection conn = new MySqlConnection(connectionString))
@@ -45,7 +45,7 @@ namespace AcademicSystem
             }
         }
 
-        
+
         private void LoadGroups()
         {
             using (MySqlConnection conn = new MySqlConnection(connectionString))
@@ -59,7 +59,7 @@ namespace AcademicSystem
             }
         }
 
-        
+
         private void btnAddUser_Click(object sender, EventArgs e)
         {
             string firstName = txtFirstName.Text.Trim();
@@ -90,7 +90,7 @@ namespace AcademicSystem
             }
         }
 
-        
+
         private void btnDeleteUser_Click(object sender, EventArgs e)
         {
             if (dgvUsers.SelectedRows.Count > 0)
@@ -109,8 +109,8 @@ namespace AcademicSystem
             }
         }
 
-       
-        private void btnAddSubject_Click(object sender, EventArgs e)
+
+        private void btnAddSubject_Click_1(object sender, EventArgs e)
         {
             string subjectName = txtSubjectName.Text.Trim();
 
@@ -131,7 +131,7 @@ namespace AcademicSystem
             }
         }
 
-        
+
         private void btnDeleteSubject_Click(object sender, EventArgs e)
         {
             if (dgvSubjects.SelectedRows.Count > 0)
@@ -150,7 +150,7 @@ namespace AcademicSystem
             }
         }
 
-       
+
         private void btnAddGroup_Click(object sender, EventArgs e)
         {
             string groupName = txtGroupName.Text.Trim();
@@ -172,7 +172,7 @@ namespace AcademicSystem
             }
         }
 
-        
+
         private void btnDeleteGroup_Click(object sender, EventArgs e)
         {
             if (dgvGroups.SelectedRows.Count > 0)
@@ -190,5 +190,6 @@ namespace AcademicSystem
                 }
             }
         }
+
     }
 }

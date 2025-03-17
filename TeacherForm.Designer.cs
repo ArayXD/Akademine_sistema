@@ -78,7 +78,6 @@
             Controls.Add(cmbSubjects);
             Name = "TeacherForm";
             Text = "TeacherForm";
-            Load += TeacherForm_Load;
             ((System.ComponentModel.ISupportInitialize)dgvStudents).EndInit();
             ResumeLayout(false);
             PerformLayout();

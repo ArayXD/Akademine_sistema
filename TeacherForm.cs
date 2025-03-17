@@ -8,16 +8,14 @@ namespace AcademicSystem
     public partial class TeacherForm : Form
     {
         string connectionString = "server=localhost;database=academic_system;user=root;password=yourpassword;";
-        int LoggedInTeacherId;
+        public int LoggedInTeacherId;
 
-        public TeacherForm(int teacherId)
+        public TeacherForm()
         {
             InitializeComponent();
-            LoggedInTeacherId = teacherId;
-            LoadSubjects();
         }
 
-        private void LoadSubjects()
+        public void LoadSubjects()
         {
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {

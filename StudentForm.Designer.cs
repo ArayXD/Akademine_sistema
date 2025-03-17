@@ -38,8 +38,7 @@
             dgvGrades.Location = new Point(12, 12);
             dgvGrades.Name = "dgvGrades";
             dgvGrades.Size = new Size(240, 150);
-            dgvGrades.TabIndex = 0;
-            dgvGrades.CellContentClick += dataGridView1_CellContentClick;
+            dgvGrades.TabIndex = 0;       
             // 
             // StudentForm
             // 
